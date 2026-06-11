@@ -1,0 +1,1248 @@
+body{
+    font-family: 'KIA Medium' !important;
+}
+body h3, .row .col h3{
+   
+        letter-spacing: .5px;
+}
+body h5, .row .col h5{
+   
+}
+h1, h2, h3, h4, h5, h6 {
+     font-family: 'KIA Medium' , !important;
+  
+}
+
+ 
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #8b8b8b;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #4e4a4a ;
+  border-radius: 0px;
+ 
+}
+.car-colours-tab img {
+    width: 90%;
+}
+li.back a {
+    margin-left: 0 !important;
+}
+#slide-out-widget-area.fullscreen-alt .bottom-text {
+    color: #000 !important;
+}
+ul.off-canvas-social-links.line-shown a {
+    opacity: 1 !important;
+}
+ul.off-canvas-social-links.line-shown a i {
+   color:#000 !important;
+}
+   #slide-out-widget-area.fullscreen-alt .inner-wrap {
+  
+    background: #ccc !important;
+}
+@media (min-width:767.9px){
+
+.off-canvas-menu-container {
+    padding-right: 0% !important;
+    padding-left: 3% !important;
+    text-align: left;
+}
+body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+    display: block;
+    font-size: 4.5vh !important;
+    line-height: 120% !important;
+    color: #000;
+    font-family: KIAL;
+}
+body #slide-out-widget-area[class*="fullscreen"] .current-menu-item > a{
+    color: #000 !important;
+}
+.off-canvas-menu-container ul.menu.menuopen {
+    padding-right: 80% !important;
+    
+}
+#slide-out-widget-area.fullscreen-alt .inner {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: auto;
+    margin: auto;
+    padding: 30px 0;
+    background: url(http://demostorage.xyz/kia/wp-content/uploads/2022/12/offcanvas-img.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100% !important;
+    background-size: 60%;
+}
+
+
+
+
+.off-canvas-menu-container ul.menu.menuopen li a {
+    width: 100%;
+}
+.off-canvas-menu-container ul.menu.menuopen li a:after {
+    
+}
+body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a:hover{
+       color: #958f8f!important;
+}
+}
+
+.car-parts-tab  .nectar-recent-post-bg:after {
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    content: ' ';
+    z-index: 1;
+    display: block;
+}
+
+
+.car-parts-tab  ol  {
+    display: flex;
+}
+ 
+.car-parts-tab ol li.dot {
+    width: -webkit-fill-available;
+}
+.car-parts-tab .inner-wrap{
+    display:none;
+}
+
+
+
+.car-parts-tab .flickity-page-dots .dot:before {
+    background-color: transparent;
+    margin-bottom: 0px;
+    min-height: 60px;
+    border-top: 2px solid #df5555;
+    display: grid;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+    line-height: 1.3;
+    color: #fff;
+}
+
+.car-parts-tab li.dot:nth-child(1):before {
+    content: 'LED Headlamps With DRLs';
+}
+.car-parts-tab li.dot:nth-child(2):before {
+    content: 'Crystal Cut Matte Graphite Alloy Wheels';
+}
+.car-parts-tab li.dot:nth-child(3):before {
+    content: 'HeartbeatLED Tail Lamps';
+}
+.car-parts-tab li.dot:nth-child(4):before {
+    content: 'Electric Sunroof';
+}
+.car-parts-tab li.dot:nth-child(5):before {
+    content: 'Rear Seat Recline 2 Step';
+}
+.car-parts-tab li.dot:nth-child(6):before {
+    content: 'Ambient Mood Lighting';
+}
+
+
+
+
+
+
+.latest-head-section {
+    margin: 0 !important;
+}
+.offers-tab .book-now-btn-1 {
+    margin-top: 0px !important;
+}
+.cell.is-selected {
+    padding-left: 0px !important;
+}
+span.arrow-right {
+    font-size: 24px;
+    line-height: 1;
+   vertical-align: revert;
+    font-weight: 600;
+}
+.top-section-offer-gray-bg h6 {
+    text-transform: uppercase;
+}
+.lacks {
+    font-family: 'KIA Medium' !important;
+    font-size: 56px !important;
+    margin-bottom: 10px !important;
+    font-weight: 600 !important;
+    letter-spacing: .1px;
+    color: #2c2c32;
+}
+.nectar_icon_wrap[data-color="accent-color"] i:hover{
+        color: #ff2020 !important;
+}
+.nectar_icon_wrap a:hover i{
+        color: #ff2020 !important;
+}
+.footer-location-head h3 {
+    font-weight: bold !important;
+}
+.material .tabbed >ul li a{
+       font-family: 'KIA Medium' , !important;  
+}
+img.footer-logo {
+    width: auto !important;
+}
+li.book-now-btn-right {
+    display: none;
+}
+.copyright-links .divider-wrap {
+    display: inline-block !important;
+    width: 10px !important;
+    height: auto !important;
+}
+.form-1 input {
+    background-color: transparent !important;
+    border-color: #aaaaaa !important;
+    font-size: 16px;
+    border-width: 1px;
+    border: 0;
+    border-bottom: 1px solid #909090 !important;
+    border-radius: 0;
+    padding-left: 0 !important;
+    height: 50px;
+}
+.form-1 input::placeholder{
+    color:#000 !important;
+}
+input[type=date]:focus, input[type=email]:focus, input[type=number]:focus, 
+input[type=password]:focus, input[type=search]:focus, 
+input[type=tel]:focus, input[type=text]:focus, input[type=url]:focus, 
+select:focus, textarea:focus {
+    box-shadow: none !important;
+}
+.fill-message .textarea {
+       height: 100px !important;
+    background: transparent;
+    border-bottom: 1px solid #909090 !important;
+    border: 0;
+    padding-left:0px !important;
+    border-radius: 0px;
+}
+.fill-message .textarea::placeholder{
+    color:#000 !important; 
+} 
+.Fill-form-home input#gform_submit_button_2 {
+    background: #fff;
+    color: #000;
+    border-radius: 0px !important;
+    margin-top: 20px;
+    box-shadow: none !important;
+    text-transform: uppercase !important;
+    font-size: .8em;
+    padding: 12px 20px !important;
+    font-weight: bold;
+}
+span.right-arrow-btn {
+    float: right;
+    font-size: 32px !important;
+    font-weight: 600;
+    color: #40403c;
+}
+
+
+.car-colours-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    border: 0;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li a {
+    width: 40px;
+    height: 40px;
+    background: #ccc;
+    border-radius: 50%;
+    border: 1px solid #868282;
+    color: transparent;
+    transform: rotateZ(-45deg);
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li a.active-tab::before {
+    border: 1px solid #000 !important;
+    content: '✓' !important;
+    border: 0px solid #868282 !important;
+    color: #fff;
+    margin-bottom: 34px;
+    opacity: 1;
+    text-shadow: 0px 1px 4px #000000;
+    font-size: 15px;
+        transform: rotateZ(45deg) translate(6px, -4px);
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(1) a {
+    background: #202541 !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(2) a {
+    background: #fff !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(3) a {
+    background: #ae1938 !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(4) a {
+    background: #35373b !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(5) a {
+    background: #e1e1e1 !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(6) a {
+   background-image: linear-gradient(to bottom, #545657 50%, #000 50%) !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(7) a {
+   background-image: linear-gradient(to bottom, #fff 50%, #000 50%) !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(8) a {
+   background-image: linear-gradient(to bottom, #868789 50%, #000 50%) !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li:nth-child(9) a {
+   background-image: linear-gradient(to bottom, #b2001f 50%, #000 50%) !important;
+}
+
+
+.car-colours-tab img {
+    margin-top: -10% !important;
+}
+
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li a:before{
+    height:0px !important;
+}
+.first-color-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li a:after{
+    height:0px !important;
+}
+.car-colours-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li.tab-item {
+    width: fit-content !important;
+    flex-grow: inherit;
+    margin-right: 10px;
+}
+
+
+@media (min-width:300px) and (max-width:567.9px){
+.car-parts-tab .flickity-page-dots .dot:before {
+    color: transparent;
+}
+    #slide-out-widget-area.fullscreen .off-canvas-social-links:after, #slide-out-widget-area.fullscreen-alt .off-canvas-social-links:after {
+   
+    background-color: rgb(0 0 0 / 60%) !important;
+    }
+    ul.menu.menuopen .menu-item-type-custom a {
+    color: #000 !important;
+}
+
+li.book-now-btn.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-350 a {
+    color: #fff !important;
+}
+body #slide-out-widget-area[class*="fullscreen"] .current-menu-item > a{
+    color:#000 !important;
+}
+ body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+    display: block;
+
+    font-family: KIAL;
+}
+   .car-colours-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+        position: inherit !important;
+        
+    }
+    .car-colours-tab ul.wpb_tabs_nav.ui-tabs-nav.clearfix li.tab-item {
+        margin-bottom: 15px;
+    }
+    .desktop-offers{
+         display:none;
+    }
+    .mobile-offers{
+         display:block !important;
+    }
+
+
+}
+.footer-places-list h5 {
+    background: #e4e5e5;
+    width: fit-content;
+    color: #000 !important;
+    padding: 4px 4px;
+}
+.mobile-offers{
+    display:none;
+}
+
+
+.latest-head-section.right-button {
+    margin: 0 !important;
+}
+
+
+
+
+.contact-message textarea#input_4_8 {
+    height: 200px !important;
+}
+.Inner-banner-content h3{
+  text-transform: uppercase !important;
+    margin-bottom: 15px !important;
+    letter-spacing: .5px !important;
+    font-weight: bold !important;  
+}
+.banner-path a {
+    text-decoration: none;
+    color: #cfd4d4;
+}
+
+.contact form input#gform_submit_button_4 {
+    border-radius: 0px !important;
+}
+.Inner-banner-content{
+       margin-bottom: 0px !important; 
+}
+.get-form input#gform_submit_button_5 {
+    border-radius: 0px !important;
+}
+
+.car-banner-3 {
+    display: flex;
+    float: right;
+}
+.car-banner-bottom-content {
+    bottom: 10%;
+    position: absolute;
+    width: 100%;
+}
+ 
+.inner-cartop-buttons {
+    text-align: right;
+}
+a.nectar-button.medium.regular.regular-button.inner-car-book-now {
+    border-radius: 0 !important;
+    margin-left: 10px;
+    font-size: 14px;
+    display: inline;
+    float: right;
+}
+ 
+.car-banner-left-name {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+}
+
+.vc_col-sm-6.car-banner-3.wpb_column.column_container.vc_column_container.col.child_column.no-extra-padding.inherit_tablet.inherit_phone {
+    right: 0;
+    position: absolute;
+    bottom: 0;
+    display: block;
+}
+
+.car-banner-3 .wpb_text_column.wpb_content_element {display: block;
+        margin: 0;
+}
+
+.car-banner-3 .wpb_wrapper {
+    display: flex;
+}
+
+.car-banner-3 .wpb_text_column.wpb_content_element .wpb_wrapper {
+    display: block;
+}
+.car-banner-3 .wpb_text_column.wpb_content_element .wpb_wrapper p {
+    padding: 0;
+    font-size: 13px;
+    padding-right: 10px;
+}
+.car-banner-3 .wpb_text_column.wpb_content_element .wpb_wrapper img {
+   width:50px;
+}
+.inner-cartop-buttons .wpb_wrapper {
+    display: grid;
+    width: 14%;
+    float: right;
+    text-align: center;
+}
+
+.compare-head1 h5 {
+    font-size: 22px !important;
+    font-weight: bold !important;
+}
+.car-right-content .vc_row.inner_row {
+    margin-bottom: 0 !important;
+}
+
+.technology ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    width: 50%;
+    
+    border: 0;
+    height: 100vh;
+    align-items: center;
+    align-content: center;
+    display: inline-grid;
+}
+.technology  .wpb_tab.ui-tabs-panel  {
+    width:50%;
+        padding-left: 0;
+}
+.unbeatable-head {
+    position: absolute;
+    padding-left: 0%;
+    width: 100%;
+    top: 15%;
+}
+.w-100 {
+    width: 100%;
+}
+
+.tab-style-1 .tabbed[data-style="vertical_modern"] .wpb_tabs_nav li a {
+    border-radius: 0px;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+    color: #fff;
+    font-size: 17px !important;
+}
+
+.tab-style-1 .tabbed[data-style="vertical_modern"][data-color-scheme="accent-color"] .wpb_tabs_nav li .active-tab {
+    background: #05141f;
+    color: #e59490;
+}
+.tab-style-1 .tabbed[data-style="vertical_modern"][data-color-scheme="accent-color"] .wpb_tabs_nav li .active-tab::before {
+    content: '>';
+    color: #d24a44;
+    padding-right: 10px;
+}
+h3.vc_custom_heading.inner-head-2 {
+    font-size: 3.4vw;
+}
+
+
+
+@media (min-width:300px) and (max-width:767.9px){
+    ul.menu.menuopen .menu-item-type-custom a {
+    color: #000 !important;
+}
+li.book-now-btn.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-350 a {
+    color: #fff !important;
+}
+body #slide-out-widget-area[class*="fullscreen"] .current-menu-item > a {
+    color: #000 !important;
+}
+#slide-out-widget-area.fullscreen .off-canvas-social-links:after, #slide-out-widget-area.fullscreen-alt .off-canvas-social-links:after {
+    background-color: rgb(0 0 0 / 60%) !important;
+}
+    .order-1-style{
+        order:1;
+    }
+    .technology {
+    border-bottom: 0px solid #2f2c2c;
+}
+.technology .wpb_row.vc_row-fluid.vc_row.inner_row {
+    margin-bottom: 0;
+}
+    
+    .inner-cartop-buttons .wpb_wrapper {
+    display: grid;
+    width: 51%;
+    float: right;
+    text-align: center;
+}
+   .unbeatable-head  {
+    margin-bottom: 20px !important;
+} 
+h3.vc_custom_heading.inner-head-2 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+} 
+   .technology ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    
+    height: auto;
+    
+} 
+    
+   .technology ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    width: 100%;
+    padding-left: 10% !important;
+    padding-right: 10%;
+}
+    .technology .wpb_tab.ui-tabs-panel {
+        width: 100%;
+     
+        padding-left: 0;
+    }
+      .technology  ul.wpb_tabs_nav.ui-tabs-nav.clearfix li {
+             text-align: left;    
+}
+.unbeatable-head p {
+    font-size: 27px !important;
+}
+.unbeatable-head {
+    position: inherit;
+    padding-left: 0%;
+    width: 100%;
+    padding-top: 7%;
+}
+
+}
+
+
+
+
+
+body[data-fancy-form-rcs="1"] .select2-container--default:hover .select2-selection--single .select2-selection__rendered  {
+    color: #000!important;
+}
+span#select2-input_2_10-container {
+    padding-left: 0px;
+}
+.know-kia h5 {
+        font-family: 'KIAL' !important;
+}
+.banner-section h5 {
+    font-family: 'KIAL' !important;
+    letter-spacing: 0 !important;
+    padding-right: 150px;
+}
+.fancy-select-wrap {
+    padding-top: 0 !important;
+}
+ body[data-fancy-form-rcs="1"] .select2-container--default .select2-selection--single:hover{ 
+    background:transparent !important;
+    color:#000 !important;
+ }
+span.select2-selection.select2-selection--single {
+    background: transparent !important;
+    background-color: transparent !important;
+    border-color: #aaaaaa !important;
+    font-size: 16px;
+    border-width: 1px;
+    border: 0;
+    border-bottom: 1px solid #909090 !important;
+    border-radius: 0;
+    padding-left: 0 !important;
+    height: 50px;
+}
+i.lines {
+    height: 2px !important;
+}
+ 
+#top nav ul #nectar-user-account a, #top nav ul #nectar-user-account a span, #top nav ul #search-btn a, #top nav ul #search-btn a span, #top nav ul .slide-out-widget-area-toggle a {
+    height: 40px;
+    line-height: 34px;
+}
+body .lines, body .lines:after, body .lines:before {
+    height: 2px;
+}
+
+.slide-out-widget-area-toggle a>span {
+    height: 40px !important;
+}
+i.lines-button.x2 {
+    top: 20px !important;
+}
+
+
+
+#top {
+    position: relative;
+    z-index: 9998;
+    width: 100%;
+    margin-top: 0px !important;
+        padding: 6px 0px;
+}
+.entrance-animation.scrolled-down header#top {
+    margin-top: 0 !important;
+}
+.offer-section-top{
+    z-index: 9999 !important;
+    top: 0 !important;
+    background: #e6e6e6 !important;
+    width: 100% !important;
+    height: 30px !important;
+    position: absolute !important;
+    display: block !important;
+}
+ 
+.nectar-global-section.after-nav {
+    z-index: 9999 !important;
+    top: 0 !important;
+    background: #e6e6e6 !important;
+    width: 100% !important;
+    height: 45px !important;
+    position: absolute !important;
+   /* display: flex !important; */
+      display: none !important;
+    align-items:center !important
+}
+.nectar-global-section.after-nav h6 {
+    margin: 0 !important;
+}
+.copyright-links a.link_text span {
+    font-size: 12px !important;
+    color: #5a5555;
+}
+.copyright-links a.link_text span:hover {
+    color: #000000;
+}
+.copyright-links .divider-wrap .divider-vertical {
+    padding-top: 0px !important;
+    width: 1px;
+    margin: 0px auto;
+    height: 4px !important;
+    background: #5a55558f !important;
+}
+.copyright-text p {
+      font-size: 12px !important;
+    color: #5a5555;
+}
+.cap-text a {
+    text-transform: uppercase;
+}
+#header-outer:not([data-format=centered-menu-under-logo]):not([data-format=centered-menu-bottom-bar]) #top nav>ul>li[class*=button_]>a:before{
+        border-radius: 0px !important;
+}
+body #header-outer .menu-item-349 > a:before, body #header-outer .menu-item-349 > a:after {
+    border-radius: 0 !important;
+}
+.test-drive-btn {
+    text-transform: uppercase;
+}
+.test-drive-btn a {
+    font-size: 15px !important;
+    font-weight: bold !important;
+    background: #e6e6e6;
+    margin: 0 !important;
+    border: 0px !important;
+    padding: 14px 37px !important;
+}
+.test-drive-btn a:hover {
+    background: #ccc;
+}
+.test-drive-btn a::before {
+    height: 35px !important;
+    background: #1f2121 !important;
+    color: #fff !important;
+}
+ #header-outer .menu-item-349 > a:before {
+     background: transparent !important;  
+}
+#header-outer .menu-item-350 > a:before {
+    background: transparent !important;
+    left: 0 !important;
+    width: auto !important;
+}
+
+.book-now-btn {
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+.book-now-btn a {
+    font-size: 15px !important;
+    font-weight: bold !important;
+    background: #000;
+    margin: 0 !important;
+    border: 0px !important;
+    padding: 14px 37px !important;
+}
+
+.book-now-btn a::before {
+    height: 35px !important;
+    background: #1f2121 !important;
+    color: #fff !important;
+}
+.know-kia .nectar-split-heading {
+    margin: 0;
+}
+.footer-menu-links-section .nectar-split-heading {
+    margin-bottom: 15px;
+}
+.main-footer-places .nectar-split-heading {
+    margin-bottom: 5px;
+}
+.footer-place p {
+    padding-bottom: 0;
+}
+.footer-menu-links-section {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+.main-footer-places .nectar-split-heading h4 {
+    color: #0a0a0a;
+    font-family: Urbanist;
+    text-transform: none;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer-menu-links-section .nectar-split-heading h4 {
+    color: #0a0a0a;
+    font-family: Urbanist;
+    text-transform: none;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: bold;
+}
+.footer-place p a {
+    text-decoration: none;
+}
+.footer-logo h2 {
+    font-family: Urbanist;
+    text-transform: none;
+    font-size: 28px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.footer-links p {
+    padding-bottom: 0;
+}
+.footer-links p a {
+   text-decoration:none;
+}
+.footer-links p a:hover {
+    text-decoration: none;
+    color: #d41111;
+}
+a.nectar-button.small.regular.accent-color.regular-button.book-now-btn-1 {
+    border-radius: 0px !important;
+    padding: 14px 40px;
+    text-transform: uppercase !important;
+    margin-top: 20px;
+    font-size:13px ;
+}
+.banner-section h3 {
+    text-transform: uppercase !important;
+    margin-bottom: 15px !important;
+    letter-spacing: .5px !important;
+    font-weight: bold !important;
+}
+
+.banner-section h5 {
+ 
+}
+.footer-places {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+}
+.banner-section .nectar-split-heading {
+    margin-bottom: 0px !important;
+}
+ 
+a.nectar-button.banner-btn.banner-btn1 {
+    border-radius: 0px !important;
+    padding: 1.1em 3.1em;
+    text-transform: uppercase !important;
+    margin-top: 20px;
+    background: #fff !important;
+    color: #000;
+    border: 1px solid #fff !important;
+    font-weight: bold !important;
+       font-size: .9em;
+}
+a.nectar-button.banner-btn.banner-btn2 {
+       margin-left: 1.3em !important;
+    border-radius: 0px !important;
+    padding: 1.1em 3.1em;
+    text-transform: uppercase !important;
+    margin-top: 20px;
+    background: transparent !important;
+    color: #fff;
+    font-weight: bold !important;
+    border: 1px solid #fff !important;
+    font-size: .9em;
+}
+a.nectar-button.banner-btn.banner-btn1:hover {
+    background:#000 !important;
+    color: #fff !important;
+    
+}
+a.nectar-button.banner-btn.banner-btn2:hover {
+    background:#fff !important;
+    color: #000 !important;
+    
+}
+ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid #ccc;
+}
+.tabbed[data-style="minimal_flexible"] .wpb_tabs_nav > li a {
+    padding: 15px 0px;
+    text-transform: uppercase;
+    font-family: 'KIAL' !important;
+    font-size:20px !important;
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
+
+.tabbed[data-style="minimal_flexible"] .wpb_tabs_nav > li {
+    
+    border-bottom: 0px solid rgba(0,0,0,0.1);
+}
+
+#header-outer #logo img, #header-outer .logo-spacing img {
+    height: 30px;
+}
+
+
+
+.nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button.previous {
+    position: initial;
+    margin-left: 0px;
+      margin-top:60px;
+    display: inline-block;
+    opacity: 1;
+}
+.nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button.next {
+    position: initial;
+      margin-top: 60px;
+        margin-left: 10px;
+
+}
+.know-kia .row-bg.viewport-desktop.using-image.using-bg-color.translate.loaded {
+    background-size: contain;
+}
+.bloack-bg-section i.fa.fa-long-arrow-right {
+    float: right;
+    font-size: 20px !important;
+}
+
+.know-kia h3{
+        text-transform: uppercase !important;
+}
+.black-images {
+    margin-bottom: 0px !important;
+}
+
+.offer-name h4 {
+    padding-bottom: 10px;
+    font-size: 30px !important;
+    text-transform: uppercase !important;
+    margin-bottom: 15px !important;
+    font-weight: bold;
+}
+.offer-name h3 {
+    font-size: 40px !important;
+    margin-bottom: 10px !important;
+    font-weight: bold !important;
+}
+/*.row-bg.viewport-desktop.using-image.loaded {
+    background-size: 100% 30%;
+    background-position: top;
+}
+*/
+.gallery-1-home{
+        margin-bottom: 0px !important;
+}
+
+.latest-head-section h6 {
+    text-align: right;
+    width: fit-content;
+    float: right;
+    text-transform: uppercase;
+    font-size: 14px !important;
+        line-height: 50px !important;
+}
+.view-all-offers a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.offers-tab .flickity-viewport{
+    margin:0px !important;
+}
+.latest-head-section {
+    margin-bottom: 20px !important;
+}
+
+
+
+
+@font-face {
+    font-family: 'KIAL';
+    src: url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIAL.woff) format("woff"),
+        url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIAL.otf) format("opentype"),
+        url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIAL.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'KIA Medium';
+    src: url("/wp-content/themes/incheonkia/fonts/KIAM.woff2") format("woff2"),
+         url("/wp-content/themes/incheonkia/fonts/KIAM.woff") format("woff"),
+         url("/wp-content/themes/incheonkia/fonts/KIAM.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+ 
+    @font-face {
+    font-family: 'KIA Light';
+    font-style: normal;
+    font-weight: normal;
+     src: url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIA-Light.woff) format("woff");
+    }
+    
+    
+
+    @font-face {
+    font-family: "KIA Medium";
+    font-style: normal;
+    font-weight: normal;
+   /*  src: url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIA-Medium.woff) format('woff'); */
+    src: url(http://demostorage.xyz/kia/wp-content/themes/incheonkia/fonts/KIA-Medium.woff) format("woff");
+    }
+    
+    
+    
+ @media (min-width:991px) {   
+ .footer-box-right {
+    display: flex;
+    justify-content: end;
+}
+.footer-box-right3 {
+    display: flex;
+    justify-content:center;
+}
+.footer-box-right2 {
+    display: flex;
+    justify-content:center;
+}  
+ }
+  .quote-left-img {
+    display: none !important;
+}  
+   
+   
+   
+   
+   
+   
+ .offers-tab  button.flickity-button.flickity-prev-next-button {
+    width: 50px !important;
+    height: 50px !important;
+}
+ .offers-tab   .nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button svg {
+  
+    top: 11.5px;  
+ }
+ .nectar-flickity[data-controls*=arrows_overlaid] .next:after, .nectar-flickity[data-controls*=arrows_overlaid] .previous:after {
+ 
+    width: 24px;
+ }
+ 
+ 
+ 
+ 
+ 
+    
+@media (min-width:300px) and (max-width:767.9px){
+    .cap-text a {
+    text-transform: uppercase;
+    font-size: 12px !important;
+}
+ span.right-arrow-btn {
+   
+    font-size: 22px !important;
+    
+}   
+.banner-section h5 {
+    padding-right: 0px;
+}   
+    
+#slide-out-widget-area .mobile-only {
+    display: block;
+    top: 0;
+    position: inherit;
+    width: 100%;
+}    
+   #slide-out-widget-area.fullscreen .inner, #slide-out-widget-area.fullscreen-alt .inner {
+    
+     
+   
+} 
+    
+.test-drive-btn a {
+    background: #ffffff;
+    color: #000 !important;
+}  
+.book-now-btn a {
+    background: #302e2e;
+}   
+body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a, #slide-out-widget-area.fullscreen-split .off-canvas-menu-container > ul > li > a, body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+    font-size: 15px!important;
+    line-height: 16px!important;
+}    
+    
+    
+.nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button.previous {
+    margin-left: 0px;
+}    
+.nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button.next {
+    margin-top: 0px;
+}   
+.nectar-flickity[data-controls*=arrows_overlaid] .flickity-prev-next-button.previous {
+    margin-top: 0px;
+}   
+
+.footer-menu-links-section .nectar-split-heading {
+    margin-bottom: 3px;
+}
+.lacks {
+    font-size: 25px !important;
+}
+body h3, .row .col h3 {
+    letter-spacing: .5px;
+    font-family: 'KIA Medium' !important;
+}
+.quote-left-img {
+    display: block !important;
+}
+span.select2-selection.select2-selection--single {
+    text-align: left;
+}
+.scrolled-down header#top {
+    margin-top: 0 !important;
+}
+.footer-places {
+    padding-bottom: 20px;
+}
+.copyright-links .wpb_wrapper {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    align-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+#header-outer:not([data-header-resize="1"]):not([data-format=left-header]) #logo img {
+    transition: opacity .2s ease;
+    width: 120px !important;
+    height: auto !important;
+}
+.main-footer-places .nectar-split-heading h4 {
+    margin-bottom: 0;
+}
+.main-footer-places .nectar-split-heading {
+    margin-bottom: 2px;
+}
+    .mob-no-margin{
+        margin-bottom:0px !important;
+    }
+    #ajax-content-wrap .vc_row.inner_row.right_padding_100px .row_col_wrap_12_inner {
+    padding-right: 0px;
+}
+
+a.nectar-button.banner-btn.banner-btn1 {
+    padding: 10px 15px;
+        font-size: 12px;
+}   
+a.nectar-button.banner-btn.banner-btn2{
+        font-size: 12px;
+    padding: 10px 13px;
+        margin-left: 10px !important;
+} 
+ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    width: 100%;
+} 
+.offer-name {
+    margin-bottom: 0 !important;
+}
+.tabbed[data-style="minimal_flexible"] .wpb_tabs_nav > li a {
+       padding: 10px 10px 10px 10px !important;
+    font-size: 13px !important;
+   
+   
+}
+.tab-section-head {
+    margin-bottom: 20px !important;
+}
+ul.wpb_tabs_nav.ui-tabs-nav.clearfix li {
+        width: fit-content;
+    display: inline-block;
+}    
+.offer-name h3 {
+    font-size: 27px !important;
+}
+.offer-name h4 {
+    font-size: 14px !important;
+    margin-bottom: 4px !important;
+}
+}
+
+.black-3-sections:hover .bloack-bg-section span.right-arrow-btn {
+    color: white;
+}
+.black-3-sections:hover .bloack-bg-section p {
+    color: white;
+}
+@media (min-width:768px) and (max-width:991.9px){
+    body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+    
+    font-size: 14px !important;
+   
+    color: #000;
+  
+}
+span.right-arrow-btn {
+    font-size: 18px !important;
+}
+ .entrance-animation.scrolled-down header#top {
+    margin-top: 0 !important;
+}
+.banner-section h3 {
+    text-align: left !important;
+    width: 100%;
+}
+.Fill-form-home input#gform_submit_button_2 {
+ 
+    margin-top: 0px;
+}
+.tabbed[data-style="minimal_flexible"] .wpb_tabs_nav > li a {
+    padding: 10px 10px 10px 10px !important;
+    font-size: 13px !important;
+}
+ul.wpb_tabs_nav.ui-tabs-nav.clearfix {
+    width: 100%;
+}
+.fill-message .textarea {
+    height: 60px !important;
+   
+}
+ul.wpb_tabs_nav.ui-tabs-nav.clearfix li {
+    width: fit-content;
+    display: inline-block;
+}
+.mob-no-margin {
+    margin-bottom: 20px !important;
+}
+.img-1 {
+    width: 100%;
+}
+.main-footer-places .nectar-split-heading {
+    margin-bottom: 2px;
+}
+.copyright-links .wpb_wrapper {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    align-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+
+
+}
